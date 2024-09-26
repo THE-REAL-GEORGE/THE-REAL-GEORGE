@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript and TypeScript<br>💬 Ask me about FiveM Lua<br>⚡ A Fun fact that I enjoy coding
+🌱 I’m currently looking into learning JavaScript and TypeScript<br>💬 Ask me about FiveM Lua<br>⚡ A Fun fact that I enjoy coding
 
 
 ## 🌐 Socials:
